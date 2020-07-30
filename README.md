@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Chris, and I write code and stuff. All of the cool kids were creating this fancy profile thing by adding a `README.md`
+to their profiles, so I decided to join the crowd. Try it out yourself [here](<https://github.com/new> "Create a new repo using your username").
+
+- - -
+#### Contact or Follow Me here :point_down:
+[![GitHub followers](https://img.shields.io/github/followers/shgysk8zer0.svg?style=social)](<https://github.com/shgysk8zer0> "GitHub Profile (here)")
+[![Twitter Follow](https://img.shields.io/twitter/follow/shgysk8zer0.svg?style=social)](<https://twitter.com/shgysk8zer0> "Twitter")
+
+[![Appointment](https://cdn.kernvalley.us/img/raster/email-icons/calendar.png)](<https://cloud.kernvalley.us/index.php/apps/appointments/pub/7YjWbnEvigxgJIit8kNQ/form> "Book an Appointment")
+[![LinkedIn](https://cdn.kernvalley.us/img/raster/email-icons/linkedin.png)](<https://www.linkedin.com/in/chris-zuber-455346141/> "LinkedIn Profile")
 <!--
 **shgysk8zer0/shgysk8zer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
